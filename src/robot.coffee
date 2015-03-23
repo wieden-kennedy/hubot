@@ -1,3 +1,4 @@
+require 'babel/register'
 Fs             = require 'fs'
 Log            = require 'log'
 Path           = require 'path'
